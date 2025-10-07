@@ -25,9 +25,19 @@ Currently transitioning into a career as a **Power BI / Data Analyst**, while le
 ## Certifications
 - 🟦 [Microsoft Certified: Power BI Data Analyst Associate](https://coursera.org/verify/professional-cert/MWFJH96RZGTJ)  
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8d9be652-8a43-4973-b276-990f50262a46" />
+
 - 🟦 [Microsoft Excel for Data Analysis](https://coursera.org/verify/U272I636EX7X)  
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/268dd70d-3ba2-420a-ad24-2740c5312afa" />
- 
+
+- 🟦 [SQL](https://upskill.tutedude.com/certificate/TD-SHYA-SQ-2348)
+ <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4ffdc0b0-1afe-43af-9e0d-441060f1aeb5" />
+
+🟦 [Tableau](https://upskill.tutedude.com/certificate/TD-SHYA-TB-1202)
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3372a3cf-134c-4c99-9f78-aa169811a0b7" />
+
+
+
+
 
 ---
 
