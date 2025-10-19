@@ -45,7 +45,8 @@ Currently transitioning into a career as a **Power BI / Data Analyst**, while le
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/shyan-ansari/)  
-- itsshayaan@gmail.com
+- Email : itsshayaan@gmail.com
+- Portfolio : shyan05.pythonanywhere.com
 
 ---
 ⭐️ *Thanks for visiting my profile!*
