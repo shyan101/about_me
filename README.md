@@ -35,6 +35,8 @@ Currently transitioning into a career as a **Power BI / Data Analyst**, while le
 - 🟦 [Tableau](https://upskill.tutedude.com/certificate/TD-SHYA-TB-1202)
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3372a3cf-134c-4c99-9f78-aa169811a0b7" />
 
+- 🟦 [Python](https://upskill.tutedude.com/certificate/TD-SHYA-PY-1029)
+<img width="791" height="611" alt="image" src="https://github.com/user-attachments/assets/7496436b-9c10-4ef7-837a-cc20eb2559cb" />
 
 
 
