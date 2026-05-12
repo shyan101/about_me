@@ -1,7 +1,8 @@
 # 👋 Hi,
 
 Welcome to my GitHub profile! I’m passionate about **Data Analytics, Business Intelligence, and Visualization**.  
-Currently transitioning into a career as a **Power BI / Data Analyst**, while leveraging my background in technical recruitment and analytics.  
+
+Data Analytics professional with 5+ years of experience spanning recruitment operations and workforce analytics. Proficient in Power BI, Tableau, SQL, and Python with expertise in data cleaning, visualization, KPI tracking, and process automation. Skilled at building interactive dashboards to monitor performance metrics, optimize workflows, and present actionable insights to leadership.
 
 ---
 
