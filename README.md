@@ -46,7 +46,7 @@ Data Analytics professional with 5+ years of experience spanning recruitment ope
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/shyan-ansari/)  
-- Email : itsshayaan@gmail.com
+- Email : itsshayaan@gmail.com , shyan_da@outlook.com
 - Portfolio : shyan05.pythonanywhere.com
 
 ---
